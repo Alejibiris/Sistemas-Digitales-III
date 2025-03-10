@@ -1,4 +1,5 @@
 # Taller 1 Sistemas Digitales III
+#Diego Alejandro Lopez Mongua 97169
 
 Mensajes = [#lista para textos a mostrar en pantalla
     "\n\n\tBienvenido al gestor del directorio telefonico",#0
