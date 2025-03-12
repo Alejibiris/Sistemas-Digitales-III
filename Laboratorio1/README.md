@@ -18,7 +18,7 @@ Su solucion esta en [Directorio_Telefonico.py][CODIGO] el cual dentro de su mism
 [//]: # (Referencias)
 
 [SALIDA]: </Laboratorio1/IMAGENES/Screenshot_20250311_220852_ru_iiec_pydroid3_Term.jpg>
-[PROBLEMA1]: </Taller 1 - Listas y Diccionarios - 2025 -1.pdf>
+[PROBLEMA1]: </Laboratorio1/TALLER1.pdf>
 [CODIGO]: </Laboratorio1/Directorio_Telefonico.py>
 [PERFIL]: <https://github.com/Alejibiris>
 [ECCIBOG]: <https://www.ecci.edu.co/bogota/>
