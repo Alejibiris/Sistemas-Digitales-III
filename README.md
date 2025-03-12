@@ -1,4 +1,4 @@
-[![Universidad ECCI](ECCIBOG)](IMGECCI)
+[![Universidad ECCI][IMGECCI]][ECCIBOG]
 
 ```sh
 Author
