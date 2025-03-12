@@ -1,13 +1,13 @@
 [![Universidad ECCI][IMGECCI]][ECCIBOG]
 
-```sh
-Author
-```
+| Repository |
+| - |
+| [`Diego Lopez`][PERFIL] |
+||
 
-[`Diego Lopez`][PERFIL]
 ## Documentacion
 
-En el presente repositorio se haran las entregas de la materia de `Sistemas Digitales III`
+En el presente repositorio se haran las entregas de la materia de `Sistemas Digitales III`.
 
 | ENTREGAS | Ubicacion |
 | ------ | ------ |
