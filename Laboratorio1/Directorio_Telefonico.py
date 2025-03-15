@@ -1,5 +1,7 @@
 # Taller 1 Sistemas Digitales III
 #Diego Alejandro Lopez Mongua 97169
+#Daniel Andres Ramirez Segura 91690
+#Sebastian Camilo Martinez Gonzales 90691
 
 Mensajes = [#lista para textos a mostrar en pantalla
     "\n\n\tBienvenido al gestor del directorio telefonico",#0
